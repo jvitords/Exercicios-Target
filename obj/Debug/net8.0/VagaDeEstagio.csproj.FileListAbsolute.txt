@@ -1,0 +1,14 @@
+C:\Users\jvdua\OneDrive\Documentos\VagaDeEstagio\VagaDeEstagio\obj\Debug\net8.0\VagaDeEstagio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jvdua\OneDrive\Documentos\VagaDeEstagio\VagaDeEstagio\obj\Debug\net8.0\VagaDeEstagio.AssemblyInfoInputs.cache
+C:\Users\jvdua\OneDrive\Documentos\VagaDeEstagio\VagaDeEstagio\obj\Debug\net8.0\VagaDeEstagio.AssemblyInfo.cs
+C:\Users\jvdua\OneDrive\Documentos\VagaDeEstagio\VagaDeEstagio\obj\Debug\net8.0\VagaDeEstagio.csproj.CoreCompileInputs.cache
+C:\Users\jvdua\OneDrive\Documentos\VagaDeEstagio\VagaDeEstagio\bin\Debug\net8.0\VagaDeEstagio.exe
+C:\Users\jvdua\OneDrive\Documentos\VagaDeEstagio\VagaDeEstagio\bin\Debug\net8.0\VagaDeEstagio.deps.json
+C:\Users\jvdua\OneDrive\Documentos\VagaDeEstagio\VagaDeEstagio\bin\Debug\net8.0\VagaDeEstagio.runtimeconfig.json
+C:\Users\jvdua\OneDrive\Documentos\VagaDeEstagio\VagaDeEstagio\bin\Debug\net8.0\VagaDeEstagio.dll
+C:\Users\jvdua\OneDrive\Documentos\VagaDeEstagio\VagaDeEstagio\bin\Debug\net8.0\VagaDeEstagio.pdb
+C:\Users\jvdua\OneDrive\Documentos\VagaDeEstagio\VagaDeEstagio\obj\Debug\net8.0\VagaDeEstagio.dll
+C:\Users\jvdua\OneDrive\Documentos\VagaDeEstagio\VagaDeEstagio\obj\Debug\net8.0\refint\VagaDeEstagio.dll
+C:\Users\jvdua\OneDrive\Documentos\VagaDeEstagio\VagaDeEstagio\obj\Debug\net8.0\VagaDeEstagio.pdb
+C:\Users\jvdua\OneDrive\Documentos\VagaDeEstagio\VagaDeEstagio\obj\Debug\net8.0\VagaDeEstagio.genruntimeconfig.cache
+C:\Users\jvdua\OneDrive\Documentos\VagaDeEstagio\VagaDeEstagio\obj\Debug\net8.0\ref\VagaDeEstagio.dll
